@@ -24,6 +24,12 @@ npx eslint --fix src/
 
 # 2) Important Topics
 
+Its pending due to time:
+- Decimal place aggregator
+- Adding performance metrics like profile
+- Adding analitics
+- Adding routing
+
 In this project focused on the production environment we have implemented the following technical characteristics:
 
 - Bundle-analizer: to know at all times possible causes of performance
