@@ -1,0 +1,15 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 702,
+  "componentFolder": "cypress/component",
+  "testFiles": "**/*.spec.*",
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  },
+  "video": false,
+  "screenshotOnRunFailure": false,
+  "nodeVersion": "system"
+}
