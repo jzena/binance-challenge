@@ -1,6 +1,6 @@
 # Demo
 
-You can see a [Demo](https://jzena.github.io/battleship-app/) here.
+You can see a [Demo](https://jzena.github.io/binance-challenge/) here.
 
 ![sample](public/assets/binance-challenge.gif)
 
