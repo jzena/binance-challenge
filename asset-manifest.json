@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/binance-challenge/static/css/main.20e63b0a.css",
+    "main.js": "/binance-challenge/static/js/main.0f00255a.js",
+    "static/js/787.0bc633da.chunk.js": "/binance-challenge/static/js/787.0bc633da.chunk.js",
+    "index.html": "/binance-challenge/index.html",
+    "main.20e63b0a.css.map": "/binance-challenge/static/css/main.20e63b0a.css.map",
+    "main.0f00255a.js.map": "/binance-challenge/static/js/main.0f00255a.js.map",
+    "787.0bc633da.chunk.js.map": "/binance-challenge/static/js/787.0bc633da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e63b0a.css",
+    "static/js/main.0f00255a.js"
+  ]
+}
